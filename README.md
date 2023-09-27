@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[No Hope](https://nohopethegame.github.io/NoHopeTheGame/)
+[No Hope](https://nohopethegame.github.io/nohopethegame/)
 
 <!--
 **NoHopeTheGame/NoHopeTheGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
